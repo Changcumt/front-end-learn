@@ -12,7 +12,7 @@
 3. [input标签整理](./articles/input标签整理.md)
 
 #### CSS
-1. Grad
+1. Grid
 2. Flex布局
 3. 长度单位
 4. 盒子模型
