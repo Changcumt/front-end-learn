@@ -28,7 +28,10 @@
 
 * number 数字
 
-    可以设置min max step 在pc端有效果，在移动端没有效果。 移动端ios强制使用数字键盘 <input type="number"  pattern="[0-9]*">
+    可以设置min max step 在pc端有效果，在移动端没有效果。 移动端ios强制使用数字键盘 
+    ```(html)
+        <input type="number"  pattern="[0-9]*">
+    ```
     
 * range 范围
 
