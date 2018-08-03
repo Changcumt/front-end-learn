@@ -9,7 +9,7 @@
 #### HTML
 1. 标签语义化
 2. 常用meta标签整理
-3. ![input标签整理](./articles/input标签整理.md)
+3. [input标签整理](./articles/input标签整理.md)
 
 #### CSS
 1. Grad
