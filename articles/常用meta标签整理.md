@@ -6,7 +6,7 @@
 --   | -- | --
 http-equiv | content-type/expire/refresh/set-cookie |
 name | author/keywords/description/generator/revised/... | 
-content | some text | 针对http-equic 和 name的值 |
+content | some text | 针对http-equiv 和 name的值 |
 
 ### seo 用到的属性
 eg.
@@ -29,10 +29,20 @@ eg.
 ### 网页相关
   ```(html)
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE-edge，chrome=1"> //使用最新版本的IE内核 chrome内核
-  <meta name="renderer" content="webkit|ie-comp|ie-stand"> // 针对国内双核浏览器选择一种内核渲染
-  <meta http-equiv="Pragma" content="no-catch"> // 禁止浏览器从本地缓存访问页面，这样可以防止脱机浏览
-  <meta http-equiv="expires" content="Wed, 26 Feb 1997 08:21:57 GMT"> //设置缓存过期时间，一旦过期，则服务器需要重新请求数据
-  <meta http-equiv="refresh" content="5;url=http://www.baidu.com"> //5秒钟后自动跳转到百度页面，如果不指定url 则是自动刷新页面
+  
+  <meta http-equiv="X-UA-Compatible" content="IE-edge，chrome=1"> 
+  //使用最新版本的IE内核 chrome内核
+  
+  <meta name="renderer" content="webkit|ie-comp|ie-stand">
+  // 针对国内双核浏览器选择一种内核渲染
+  
+  <meta http-equiv="Pragma" content="no-catch">
+  // 禁止浏览器从本地缓存访问页面，这样可以防止脱机浏览
+  
+  <meta http-equiv="expires" content="Wed, 26 Feb 1997 08:21:57 GMT">
+  //设置缓存过期时间，一旦过期，则服务器需要重新请求数据
+  
+  <meta http-equiv="refresh" content="5;url=http://www.baidu.com">
+  //5秒钟后自动跳转到百度页面，如果不指定url 则是自动刷新页面
 
   ```
