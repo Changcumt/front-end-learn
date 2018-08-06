@@ -82,6 +82,9 @@
 5. Babel
 6. 静态类型检测
 
+### DevOps
+1. 自动化部署
+
 ### Http
 1. http状态码
 2. http header
