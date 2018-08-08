@@ -114,7 +114,33 @@ Grid是一个基于二维网格布局的系统，与之相对的Flex布局是一
   }
   ~~~
   
-  10. 
+  10.  grid-column-start/grid-column-end/grid-row-start/grid-row-end （应用在网格项）
+  
+    使用特定的网格线确定网格项在网格内的位置。grid-column-start/grid-row-start 属性表示网格项的网格线的起始位置，grid-column-end/grid-row-end属性表示网格项的网格线的终止位置。
+ ~~~
+ grid-column-start: <number> | <name> | span <number> | span <name> | auto
+ 
+  <line>: 可以是一个数字来引用相应编号的网格线，或者使用名称引用相应命名的网格线
+  span <number>: 网格项包含指定数量的网格轨道
+  span <name>: 网格项包含指定名称网格项的网格线之前的网格轨道
+  auto: 表明自动定位，自动跨度或者默认跨度之一
+ ~~~
+ 
+ 11. grid-column/grid-row （应用在网格项）
+    
+    grid-column-start + grid-column-end, 和 grid-row-start + grid-row-end属性分别的简写形式。
+  ~~~
+  .item{
+    grid-column: <start-line> / <end-line> | <start-line> / span <value>;
+    grid-row: <start-line> / <end-line> | <start-line> / span <value>;
+  }
+  ~~~
+  
+ 12 justify-self align-self （应用在网格项）
+  
+    属性同 justify-items & align-items
+ 
+ 
     
     
 
