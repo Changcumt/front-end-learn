@@ -23,7 +23,7 @@
 9. [选择符](./articles/选择符.md)
 
 #### Javascript
-1. 字符串操作
+1. [字符串操作](./articles/字符串操作.md)
 2. 数组操作
 3. 日期操作
 4. Object操作
