@@ -24,7 +24,7 @@
 
 #### Javascript
 1. [字符串操作](./articles/字符串操作.md)
-2. 数组操作
+2. [数组操作](./articles/数组操作.md)
 3. 日期操作
 4. Object操作
 5. 原型链
