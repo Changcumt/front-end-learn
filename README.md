@@ -27,7 +27,7 @@
 2. [数组操作](./articles/数组操作.md)
 3. 日期操作
 4. Object操作
-5. 原型链
+5. [继承与原型链](./articles/继承与原型链.md)
 6. [闭包](./articles/闭包.md)
 7. DOM操作
 8. Ajax/fetch
