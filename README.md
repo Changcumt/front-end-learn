@@ -79,7 +79,7 @@
 2. 单元测试工具
 3. 持续集成工具
 4. 代码质量工具
-5. [Babel](./Babel.md)
+5. [Babel](./articles/Babel.md)
 6. 静态类型检测
 
 ### DevOps
