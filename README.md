@@ -34,7 +34,7 @@
 9. 事件机制
 
 #### es6
-1. Promise
+1. [Promise](./articles/Promise.md)
 2. Class
 3. Set Map
 4. async
