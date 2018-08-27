@@ -36,7 +36,7 @@
 #### es6
 1. [Promise](./articles/Promise.md)
 2. Class
-3. Set Map
+3. [Set Map](./articles/set-map.md)
 4. [async](./articles/async.md)
 5. [var let const](./articles/var_let_const.md)
 
