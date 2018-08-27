@@ -37,7 +37,7 @@
 1. [Promise](./articles/Promise.md)
 2. Class
 3. Set Map
-4. async
+4. [async](./articles/async.md)
 5. [var let const](./articles/var_let_const.md)
 
 ### 提高
@@ -73,6 +73,7 @@
 2. 性能优化
 3. redux 哲学
 4. react-router 原理
+5. 相关常用插件使用以及原理
 
 ### 工具
 1. webpack
