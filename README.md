@@ -20,7 +20,7 @@
 6. 3D/2D转换
 7. 设置字体
 8. [at规则](./articles/at规则.md)
-9. [选择符](./articles/选择符.md)
+9. [选择符](./articles/选择符.md) 未完成
 
 #### Javascript
 1. [字符串操作](./articles/字符串操作.md)
@@ -39,7 +39,7 @@
 3. [Set Map](./articles/set-map.md)
 4. [async](./articles/async.md)
 5. [var let const](./articles/var_let_const.md)
-6. [ArrayBuffer](./articles/ArrayBuffer.md)
+6. [ArrayBuffer](./articles/ArrayBuffer.md) 未完成
 
 ### 提高
 #### HTML
