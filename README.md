@@ -68,6 +68,7 @@
 3. 性能优化
 4. vuex 原理
 5. vue-router 原理
+6. vue 插件
 
 #### react 
 1. 架构
@@ -75,6 +76,8 @@
 3. redux 哲学
 4. react-router 原理
 5. 相关常用插件使用以及原理
+6. React 插件
+7. redux 中间件
 
 ### 工具
 1. webpack
