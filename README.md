@@ -49,7 +49,7 @@
 1. [高度塌陷问题 BFC](./articles/BFC.md)
 2. 样式兼容
 3. [重绘与回流](./articles/重绘与回流.md)
-4. 浏览器伪类整理（滚动条，input相关）
+4. [浏览器伪类整理（滚动条，input相关）](./articles/伪类整理.md)
 
 #### Javascript
 1. 设计模式
