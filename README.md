@@ -105,7 +105,7 @@
 1. Worker
 2. Socket
 3. Geo
-4. ...
+4. serviceWorker
 
 ### 编程思想
 1. AOP
