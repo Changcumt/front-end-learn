@@ -102,7 +102,7 @@
 2. 性能优化
 
 ### HTML5 新的API
-1. Worker
+1. [Worker](./Worker.md)
 2. Socket
 3. Geo
 4. serviceWorker
