@@ -150,3 +150,7 @@ https://github.com/yangshun/front-end-interview-handbook/blob/master/Translation
 * [JSCore](https://tech.meituan.com/2018/08/23/deep-understanding-of-jscore.html)
 * [WebViewJavascriptBridge](https://github.com/ShannonChenCHN/iOSDevLevelingUp/tree/master/ReadingSourceCode/WebViewJavascriptBridgeNotes)
 
+
+### 有意思的插件
+* [webpack-bundle-analyzer](https://www.jianshu.com/p/2722e90b72c1)
+
