@@ -5,3 +5,5 @@
 4. [你不知道的浏览器页面渲染机制](https://mp.weixin.qq.com/s/_NrFbrucJRrA8fS40dCkow)
 5. [腾讯-深入理解前端性能监控](https://mp.weixin.qq.com/s/YI-96IbtIjTDzS-3N-9FAg)
 6. [页面性能优化办法有哪些](https://mp.weixin.qq.com/s/DapiwE-AhML-Mm4r0b_sWg)
+7. [webpack 配置哪些优化](https://juejin.im/post/5cb71c8e518825324c44eeb7)
+8. [**2019前端基础面试秘籍](https://juejin.im/post/5cb92d9a5188254160581b87)
