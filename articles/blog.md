@@ -7,3 +7,5 @@
 6. [页面性能优化办法有哪些](https://mp.weixin.qq.com/s/DapiwE-AhML-Mm4r0b_sWg)
 7. [webpack 配置哪些优化](https://juejin.im/post/5cb71c8e518825324c44eeb7)
 8. [**2019前端基础面试秘籍](https://juejin.im/post/5cb92d9a5188254160581b87)
+9. [从前端角度彻底搞懂 DIP、IoC、DI、JS](https://zhuanlan.zhihu.com/p/61018434)
+10. [Webpack打包优化：使用外链与拆包模式](https://juejin.im/post/5cc1237ae51d456e3e7a3b90)
