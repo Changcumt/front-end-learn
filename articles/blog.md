@@ -11,3 +11,6 @@
 10. [Webpack打包优化：使用外链与拆包模式](https://juejin.im/post/5cc1237ae51d456e3e7a3b90)
 11. [手把手教你写一个 Webpack Loader](https://segmentfault.com/a/1190000018980814)
 12. [浏览器渲染过程及JS引擎浅析](https://www.clloz.com/programming/front-end/js/2019/04/25/how-browser-work/)
+13. [《你不知道的JavaScript上》作用域与闭包](https://juejin.im/post/5cb1308df265da039b085e69)
+14. [**【面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
+15. [**【面试篇】寒冬求职季之你必须要懂的原生JS(中)](https://juejin.im/post/5cbd1e33e51d45789161d053)
