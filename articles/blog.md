@@ -15,3 +15,7 @@
 14. [**【面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390) 未读完
 15. [**【面试篇】寒冬求职季之你必须要懂的原生JS(中)](https://juejin.im/post/5cbd1e33e51d45789161d053) 未读完
 16. [JavaScript instanceof 运算符深入剖析](https://www.ibm.com/developerworks/cn/web/1306_jiangjj_jsinstanceof/index.html)
+17. [WebAssembly 现状与实战](https://www.ibm.com/developerworks/cn/web/wa-lo-webassembly-status-and-reality/index.html)未读完
+18. [加速 Webpack](https://www.ibm.com/developerworks/cn/web/wa-lo-expedite-webpack/index.html)
+19. [HTTP/2 幕后原理](https://www.ibm.com/developerworks/cn/web/wa-http2-under-the-hood/index.html)未读完
+20. [高效使用 JavaScript 闭包](https://www.ibm.com/developerworks/cn/web/wa-use-javascript-closures-efficiently/index.html)
