@@ -6,11 +6,12 @@
 5. [腾讯-深入理解前端性能监控](https://mp.weixin.qq.com/s/YI-96IbtIjTDzS-3N-9FAg)
 6. [页面性能优化办法有哪些](https://mp.weixin.qq.com/s/DapiwE-AhML-Mm4r0b_sWg)
 7. [webpack 配置哪些优化](https://juejin.im/post/5cb71c8e518825324c44eeb7)
-8. [**2019前端基础面试秘籍](https://juejin.im/post/5cb92d9a5188254160581b87)
+8. [**2019前端基础面试秘籍](https://juejin.im/post/5cb92d9a5188254160581b87) 未读完
 9. [从前端角度彻底搞懂 DIP、IoC、DI、JS](https://zhuanlan.zhihu.com/p/61018434)
 10. [Webpack打包优化：使用外链与拆包模式](https://juejin.im/post/5cc1237ae51d456e3e7a3b90)
 11. [手把手教你写一个 Webpack Loader](https://segmentfault.com/a/1190000018980814)
 12. [浏览器渲染过程及JS引擎浅析](https://www.clloz.com/programming/front-end/js/2019/04/25/how-browser-work/)
-13. [《你不知道的JavaScript上》作用域与闭包](https://juejin.im/post/5cb1308df265da039b085e69)
-14. [**【面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390)
-15. [**【面试篇】寒冬求职季之你必须要懂的原生JS(中)](https://juejin.im/post/5cbd1e33e51d45789161d053)
+13. [《你不知道的JavaScript上》作用域与闭包](https://juejin.im/post/5cb1308df265da039b085e69) 未读完
+14. [**【面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://juejin.im/post/5cab0c45f265da2513734390) 未读完
+15. [**【面试篇】寒冬求职季之你必须要懂的原生JS(中)](https://juejin.im/post/5cbd1e33e51d45789161d053) 未读完
+16. [JavaScript instanceof 运算符深入剖析](https://www.ibm.com/developerworks/cn/web/1306_jiangjj_jsinstanceof/index.html)
