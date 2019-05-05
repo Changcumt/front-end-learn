@@ -22,4 +22,4 @@
 21. [**面试官：自己搭建过vue开发环境吗？](https://juejin.im/post/5cc55c336fb9a032086dd701)未读完
 22. [**JavaScript 面试知识点合集](https://juejin.im/post/5cc230ae5188252e741cc751)未读完
 23. [ES6之promise原理](https://juejin.im/post/5cc54877f265da03b8585902)未读完
-24. [【前端性能优化】vue性能优化](https://juejin.im/post/5cc81076e51d456e361ed97e) 未读完
+24. [【前端性能优化】vue性能优化](https://juejin.im/post/5cc81076e51d456e361ed97e) 
