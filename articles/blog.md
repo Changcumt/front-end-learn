@@ -19,3 +19,7 @@
 18. [加速 Webpack](https://www.ibm.com/developerworks/cn/web/wa-lo-expedite-webpack/index.html)
 19. [HTTP/2 幕后原理](https://www.ibm.com/developerworks/cn/web/wa-http2-under-the-hood/index.html)未读完
 20. [高效使用 JavaScript 闭包](https://www.ibm.com/developerworks/cn/web/wa-use-javascript-closures-efficiently/index.html)
+21. [**面试官：自己搭建过vue开发环境吗？](https://juejin.im/post/5cc55c336fb9a032086dd701)未读完
+22. [**JavaScript 面试知识点合集](https://juejin.im/post/5cc230ae5188252e741cc751)未读完
+23. [ES6之promise原理](https://juejin.im/post/5cc54877f265da03b8585902)未读完
+24. [【前端性能优化】vue性能优化](https://juejin.im/post/5cc81076e51d456e361ed97e) 未读完
