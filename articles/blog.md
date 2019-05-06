@@ -37,4 +37,7 @@
 36. [关于JS引擎优化的理解](https://juejin.im/post/5cc4f406f265da03612ef0d6) 未读完
 37. [3分钟了解vue数据劫持的原理](https://juejin.im/post/5cc8f394f265da038733ae77) 未读完
 38. ****[一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628) 非常重要，以此来检查前端复习情况
-
+39. [剖析React源码系列](https://github.com/KieSun/Dream/issues/18) 未读完
+40. [使用 React 和 ImmutableJS 构建一个拖放布局构建器](https://juejin.im/post/5cccfa56f265da034c7038f3) 学习使用React Immutables TypeScript  未读完
+41. [彻底揭秘keep-alive原理](https://juejin.im/post/5cce49036fb9a031eb58a8f9) 未读完
+42. [React项目从Javascript到Typescript的迁移经验总结](https://juejin.im/post/5cc5b6d9e51d456e660d453b)
