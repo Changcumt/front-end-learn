@@ -36,4 +36,5 @@
 35. [前端路由的原理和实现](https://juejin.im/post/5cc58236f265da0393787285) 未读完
 36. [关于JS引擎优化的理解](https://juejin.im/post/5cc4f406f265da03612ef0d6) 未读完
 37. [3分钟了解vue数据劫持的原理](https://juejin.im/post/5cc8f394f265da038733ae77) 未读完
-38. 
+38. ****[一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628) 非常重要，以此来检查前端复习情况
+
