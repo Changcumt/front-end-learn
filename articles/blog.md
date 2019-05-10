@@ -17,28 +17,28 @@
 16. [JavaScript instanceof 运算符深入剖析](https://www.ibm.com/developerworks/cn/web/1306_jiangjj_jsinstanceof/index.html)
 17. [WebAssembly 现状与实战](https://www.ibm.com/developerworks/cn/web/wa-lo-webassembly-status-and-reality/index.html)未读完
 18. [加速 Webpack](https://www.ibm.com/developerworks/cn/web/wa-lo-expedite-webpack/index.html)
-19. [HTTP/2 幕后原理](https://www.ibm.com/developerworks/cn/web/wa-http2-under-the-hood/index.html)未读完
+19. [HTTP/2 幕后原理](https://www.ibm.com/developerworks/cn/web/wa-http2-under-the-hood/index.html)
 20. [高效使用 JavaScript 闭包](https://www.ibm.com/developerworks/cn/web/wa-use-javascript-closures-efficiently/index.html)
 21. [**面试官：自己搭建过vue开发环境吗？](https://juejin.im/post/5cc55c336fb9a032086dd701)未读完
 22. [**JavaScript 面试知识点合集](https://juejin.im/post/5cc230ae5188252e741cc751)未读完
-23. [ES6之promise原理](https://juejin.im/post/5cc54877f265da03b8585902)未读完
+23. [ES6之promise原理](https://juejin.im/post/5cc54877f265da03b8585902)
 24. [【前端性能优化】vue性能优化](https://juejin.im/post/5cc81076e51d456e361ed97e) 
 25. [变量提升相关](https://juejin.im/post/5cc657276fb9a0323f68a99a)
 26. [JS中this的绑定规则](https://juejin.im/post/5cc554b46fb9a032414f650e)
 27. [深入了解 Service Worker ](https://www.wengbi.com/thread_50556_1.html)未读完
 28. [详解HTTP 与TCP中Keep-Alive机制的区别](https://mp.weixin.qq.com/s/MR8OWPKQoM6Cr9o1rWsK5A) 未读完
 29. 了解 JavaScript 函数式编程 [柯里化](https://juejin.im/post/5ccbb9d95188253d12688280) [代码组合的优势](https://juejin.im/post/5ccd0d17518825406261374d) [声明式函数](https://juejin.im/post/5ccea5a2f265da036207bb6f) 未读完
-30. [基于虚拟DOM(Snabbdom)的迷你React](https://segmentfault.com/a/1190000019053542) 未读完
+30. [基于虚拟DOM(Snabbdom)的迷你React](https://segmentfault.com/a/1190000019053542) 
 31. [浅析前端构建](https://mp.weixin.qq.com/s/52ja4nEhA4z0LWunxXsjUg) 未读完
-32. [理解JavaScript概念系列--异步任务](https://juejin.im/post/5cc12ca46fb9a0323d6e098c)  未读完
+32. [理解JavaScript概念系列--异步任务](https://juejin.im/post/5cc12ca46fb9a0323d6e098c) 
 33. [Javascript 中继承汇总](https://juejin.im/post/5cc43911e51d45400f5d589a) 未读完
 34. [2019 JavaScript面试题详解（基础+进阶）](https://juejin.im/post/5cc543edf265da03761e9451) 未读完
-35. [前端路由的原理和实现](https://juejin.im/post/5cc58236f265da0393787285) 未读完
+35. [前端路由的原理和实现](https://juejin.im/post/5cc58236f265da0393787285) 
 36. [关于JS引擎优化的理解](https://juejin.im/post/5cc4f406f265da03612ef0d6) 未读完
-37. [3分钟了解vue数据劫持的原理](https://juejin.im/post/5cc8f394f265da038733ae77) 未读完
+37. [3分钟了解vue数据劫持的原理](https://juejin.im/post/5cc8f394f265da038733ae77) 
 38. ****[一名【合格】前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628) 非常重要，以此来检查前端复习情况
 39. [剖析React源码系列](https://github.com/KieSun/Dream/issues/18) 未读完
-40. [使用 React 和 ImmutableJS 构建一个拖放布局构建器](https://juejin.im/post/5cccfa56f265da034c7038f3) 学习使用React Immutables TypeScript  未读完
-41. [彻底揭秘keep-alive原理](https://juejin.im/post/5cce49036fb9a031eb58a8f9) 未读完
+40. [使用 React 和 ImmutableJS 构建一个拖放布局构建器](https://juejin.im/post/5cccfa56f265da034c7038f3) 学习使用React Immutables TypeScript 
+41. [彻底揭秘keep-alive原理](https://juejin.im/post/5cce49036fb9a031eb58a8f9) 
 42. [React项目从Javascript到Typescript的迁移经验总结](https://juejin.im/post/5cc5b6d9e51d456e660d453b)
 43. [金三银四魔都两年半前端面经](https://mp.weixin.qq.com/s/uKBPBBSnCtSu1oj3yC7gow) 重点学习
