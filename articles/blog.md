@@ -71,4 +71,5 @@
 71. [javaScript 个性特点：编程语言界的平头哥](https://www.infoq.cn/article/6NYVv*MaLZUW8gArUFVU)未读完
 72. [es6 装饰器decorator的使用 +webpack4.0配置](https://juejin.im/post/5cdc1bbce51d45379a164342)未读完
 73. [精读《Function Component 入门》](https://juejin.im/post/5ceb36dd51882530be7b1585)
+74. [一个前端非侵入式骨架屏自动生成方案](https://korbinzhao.github.io/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/%E9%AA%A8%E6%9E%B6%E5%B1%8F/2018/06/23/skeleton-auto-generator/)
 
