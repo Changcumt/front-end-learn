@@ -70,4 +70,5 @@
 70. [VUE双向绑定原理实践](https://juejin.im/post/5cdc11c8f265da0368148085)未读完
 71. [javaScript 个性特点：编程语言界的平头哥](https://www.infoq.cn/article/6NYVv*MaLZUW8gArUFVU)未读完
 72. [es6 装饰器decorator的使用 +webpack4.0配置](https://juejin.im/post/5cdc1bbce51d45379a164342)未读完
+73. [精读《Function Component 入门》](https://juejin.im/post/5ceb36dd51882530be7b1585)
 
