@@ -8,7 +8,7 @@ immutable.js 可以提高React的性能。为什么可以提高React的性能，
 #### 常用类型
 
 1. List, 类似于Javascript的Array
-```
+```javascript
 import {List} from 'immutable
 // 声明一个List,传入一个类集合的对象
 
@@ -33,7 +33,7 @@ numberList.get(1) // 2
 
 2. Map 类似于Javascript中的Object
 
-```
+```javascript
 // 声明一个Map
 const myMap = Map({a:1})
 
@@ -52,7 +52,7 @@ deepMap.setIn(['a','b','c'],"Ha Ha!")
 
 5. Record, 类似Object, 可以扩展 以及设置属性默认值
 
-```
+```javascript
 const { Record } = require('immutable')
 const ABRecord = Record({ a: 1, b: 2 })
 const myRecord = ABRecord({ b: 3 })
@@ -60,7 +60,7 @@ const myRecord = ABRecord({ b: 3 })
 
 6. Seq 高效的对集合链式操作的一种结构
 
-```
+```javascript
 const { Seq } = require('immutable')
 const oddSquares = Seq([ 1, 2, 3, 4, 5, 6, 7, 8 ])
   .filter(x => x % 2 !== 0)
@@ -74,7 +74,7 @@ const oddSquares = Seq([ 1, 2, 3, 4, 5, 6, 7, 8 ])
 1. fromJs() 默认将Object转成Map 数组转成List
 2. getIn 类似dotProp
 
-```
+```javascript
 const { getIn } = require('immutable')
 getIn({ x: { y: { z: 123 }}}, ['x', 'y', 'z']) // 123
 getIn({ x: { y: { z: 123 }}}, ['x', 'q', 'p'], 'ifNotSet') // 'ifNotSet'
