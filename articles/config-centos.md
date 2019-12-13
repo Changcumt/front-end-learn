@@ -1,7 +1,6 @@
 ## 配置Linux服务器
 
 服务器版本 centos 6.1
-47.102.114.231  kylin / P52nRc7J8n1HNgUk
 
 #### 查看系统版本信息
 ```bash
